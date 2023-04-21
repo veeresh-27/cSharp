@@ -1,0 +1,7 @@
+C:\Users\veerm\Documents\Training\dotNet\Veeresh-Assingment\Veeresh-Assingment\bin\Debug\Veeresh-Assingment.exe.config
+C:\Users\veerm\Documents\Training\dotNet\Veeresh-Assingment\Veeresh-Assingment\bin\Debug\Veeresh-Assingment.exe
+C:\Users\veerm\Documents\Training\dotNet\Veeresh-Assingment\Veeresh-Assingment\bin\Debug\Veeresh-Assingment.pdb
+C:\Users\veerm\Documents\Training\dotNet\Veeresh-Assingment\Veeresh-Assingment\obj\Debug\Veeresh-Assingment.csproj.AssemblyReference.cache
+C:\Users\veerm\Documents\Training\dotNet\Veeresh-Assingment\Veeresh-Assingment\obj\Debug\Veeresh-Assingment.csproj.CoreCompileInputs.cache
+C:\Users\veerm\Documents\Training\dotNet\Veeresh-Assingment\Veeresh-Assingment\obj\Debug\Veeresh-Assingment.exe
+C:\Users\veerm\Documents\Training\dotNet\Veeresh-Assingment\Veeresh-Assingment\obj\Debug\Veeresh-Assingment.pdb
